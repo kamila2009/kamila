@@ -9,7 +9,7 @@ color:deeppink
 }
 
 body {
-    background: url('img/bg-desktop.webp');
+    background: url('bg-desktop.webp');
     font-family: Bai Jamjuree;
 }
 
@@ -102,7 +102,7 @@ footer p {
 @media (max-width: 560px) {
     
     body {
-        background: url('img/bg-mobile.webp'), no-repeat cover;
+        background: url('bg-mobile.webp'), no-repeat cover;
     }
 
     .cartao {
